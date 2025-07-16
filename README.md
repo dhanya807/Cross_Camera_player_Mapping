@@ -74,6 +74,7 @@ Place these in your Google Drive:
 -  `broadcast.mp4`
 -  `tacticam.mp4`
 -  Trained YOLOv11 weights: `best.pt`
+-  Download it here - https://drive.google.com/file/d/1N7eCXEulLei9rnPZ1lre3XNo2Fc02num/view?usp=drive_link
 
 ---
 
